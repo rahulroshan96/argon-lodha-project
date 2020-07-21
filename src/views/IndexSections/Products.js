@@ -41,46 +41,46 @@ class Products extends React.Component {
         <Row>
           <Col sm="3" xs="6">
             <small className="d-block text-uppercase font-weight-bold mb-4">
-              Oral Liquids
+            cap-sealing-machine
             </small>
             <img
               alt="..."
               className="img-fluid rounded shadow"
-              src={require("assets/img/theme/team-2-800x800.jpg")}
-              style={{ width: "250px" }}
+              src={require("assets/img/products/cap-sealing-machine.jpg")}
+              style={{ width: "250px", height:"230px" }}
             />
           </Col>
           <Col sm="3" xs="6">
             <small className="d-block text-uppercase font-weight-bold mb-4">
-              Oral Liquids
+            capsule-section
             </small>
             <img
               alt="..."
               className="img-fluid rounded shadow"
-              src={require("assets/img/theme/team-2-800x800.jpg")}
-              style={{ width: "250px" }}
+              src={require("assets/img/products/capsule-section.jpg")}
+              style={{ width: "250px", height:"230px" }}
             />
           </Col>
           <Col className="mt-5 mt-sm-0" sm="3" xs="6">
             <small className="d-block text-uppercase font-weight-bold mb-4">
-              Topical
+            labeling-machine
             </small>
             <img
               alt="..."
               className="img-fluid rounded shadow-lg"
-              src={require("assets/img/theme/team-3-800x800.jpg")}
-              style={{ width: "250px" }}
+              src={require("assets/img/products/labeling-machine.jpg")}
+              style={{ width: "250px", height:"230px" }}
             />
           </Col>
           <Col className="mt-5 mt-sm-0" sm="3" xs="6">
             <small className="d-block text-uppercase font-weight-bold mb-4">
-              Injectables
+            liquid-filing-machine
             </small>
             <img
               alt="..."
               className="img-fluid rounded shadow-lg"
-              src={require("assets/img/theme/team-4-800x800.jpg")}
-              style={{ width: "250px" }}
+              src={require("assets/img/products/liquid-filing-machine.jpg")}
+              style={{ width: "250px", height:"230px" }}
             />
           </Col>
         </Row>
@@ -89,46 +89,46 @@ class Products extends React.Component {
         <Row>
           <Col sm="3" xs="6">
             <small className="d-block text-uppercase font-weight-bold mb-4">
-              Oral Liquids
+            packing-machine
             </small>
             <img
               alt="..."
               className="img-fluid rounded shadow"
-              src={require("assets/img/theme/team-2-800x800.jpg")}
-              style={{ width: "250px" }}
+              src={require("assets/img/products/packing-machine.jpg")}
+              style={{ width: "250px", height:"230px" }}
             />
           </Col>
           <Col sm="3" xs="6">
             <small className="d-block text-uppercase font-weight-bold mb-4">
-              Oral Liquids
+            powder-filling-machine
             </small>
             <img
               alt="..."
               className="img-fluid rounded shadow"
-              src={require("assets/img/theme/team-2-800x800.jpg")}
-              style={{ width: "250px" }}
+              src={require("assets/img/products/powder-filling-machine.jpg")}
+              style={{ width: "250px", height:"230px" }}
             />
           </Col>
           <Col className="mt-5 mt-sm-0" sm="3" xs="6">
             <small className="d-block text-uppercase font-weight-bold mb-4">
-              Topical
+            sterile-washing-machines
             </small>
             <img
               alt="..."
               className="img-fluid rounded shadow-lg"
-              src={require("assets/img/theme/team-3-800x800.jpg")}
-              style={{ width: "250px" }}
+              src={require("assets/img/products/sterile-washing-machines.jpg")}
+              style={{ width: "250px", height:"230px" }}
             />
           </Col>
           <Col className="mt-5 mt-sm-0" sm="3" xs="6">
             <small className="d-block text-uppercase font-weight-bold mb-4">
-              Injectables
+            tablet-section
             </small>
             <img
               alt="..."
               className="img-fluid rounded shadow-lg"
-              src={require("assets/img/theme/team-4-800x800.jpg")}
-              style={{ width: "250px" }}
+              src={require("assets/img/products/tablet-section.jpg")}
+              style={{ width: "250px", height:"230px" }}
             />
           </Col>
         </Row>

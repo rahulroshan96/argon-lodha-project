@@ -32,7 +32,7 @@ class Clients extends React.Component {
                 <h2 className="display-3">
                   Our Clients
                   <span className="text-success">
-                    Our Clients Loves US
+                    Our Clients Love US
                   </span>
                 </h2>
                 {/* <p className="lead">
@@ -45,23 +45,24 @@ class Clients extends React.Component {
                   <Row className="justify-content-center">
                     <Col lg="4" xs="4">
                       <a
-                        href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
+                        // href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
                         id="tooltip255035741"
                         target="_blank"
                       >
                         <img
                           alt="..."
                           className="img-fluid"
-                          src={require("assets/img/clients/client-10.jpg")}
+                          src={require("assets/img/clients/client-2.jpg")}
+                          style={{ width: "250px", height:"230px" }}
                         />
                       </a>
-                      <UncontrolledTooltip delay={0} target="tooltip255035741">
+                      {/* <UncontrolledTooltip delay={0} target="tooltip255035741">
                         Bootstrap 4 - Most popular front-end component library
-                      </UncontrolledTooltip>
+                      </UncontrolledTooltip> */}
                     </Col>
                     <Col lg="4" xs="4">
                       <a
-                        href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
+                        // href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
                         id="tooltip255035741"
                         target="_blank"
                       >
@@ -71,75 +72,79 @@ class Clients extends React.Component {
                           src={require("assets/img/clients/client-10.jpg")}
                         />
                       </a>
-                      <UncontrolledTooltip delay={0} target="tooltip255035741">
+                      {/* <UncontrolledTooltip delay={0} target="tooltip255035741">
                         Bootstrap 4 - Most popular front-end component library
-                      </UncontrolledTooltip>
+                      </UncontrolledTooltip> */}
                     </Col>
                     <Col lg="4" xs="4">
                       <a
-                        href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
+                        // href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
                         id="tooltip255035741"
                         target="_blank"
                       >
                         <img
                           alt="..."
                           className="img-fluid"
-                          src={require("assets/img/clients/client-10.jpg")}
+                          src={require("assets/img/clients/client-13.jpg")}
+                          style={{ width: "250px", height:"230px" }}
                         />
                       </a>
-                      <UncontrolledTooltip delay={0} target="tooltip255035741">
+                      {/* <UncontrolledTooltip delay={0} target="tooltip255035741">
                         Bootstrap 4 - Most popular front-end component library
-                      </UncontrolledTooltip>
+                      </UncontrolledTooltip> */}
                     </Col>
                     </Row>
                     <Row className="justify-content-center">
                     <Col lg="4" xs="4">
                       <a
-                        href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
+                        // href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
                         id="tooltip255035741"
                         target="_blank"
                       >
                         <img
                           alt="..."
                           className="img-fluid"
-                          src={require("assets/img/clients/client-10.jpg")}
+                          src={require("assets/img/clients/client-19.jpg")}
+                          style={{ width: "250px", height:"230px" }}
                         />
                       </a>
-                      <UncontrolledTooltip delay={0} target="tooltip255035741">
+                      {/* <UncontrolledTooltip delay={0} target="tooltip255035741">
                         Bootstrap 4 - Most popular front-end component library
-                      </UncontrolledTooltip>
+                      </UncontrolledTooltip> */}
                     </Col>
                     <Col lg="4" xs="4">
                       <a
-                        href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
+                        // href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
                         id="tooltip255035741"
                         target="_blank"
                       >
                         <img
                           alt="..."
                           className="img-fluid"
-                          src={require("assets/img/clients/client-10.jpg")}
+                          src={require("assets/img/clients/client-20.jpg")}
+                          style={{ width: "250px", height:"230px" }}
                         />
                       </a>
-                      <UncontrolledTooltip delay={0} target="tooltip255035741">
+                      {/* <UncontrolledTooltip delay={0} target="tooltip255035741">
                         Bootstrap 4 - Most popular front-end component library
-                      </UncontrolledTooltip>
+                      </UncontrolledTooltip> */}
                     </Col>
                     <Col lg="4" xs="4">
                       <a
-                        href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
+                        // href="https://www.creative-tim.com/product/argon-design-system?ref=adsr-landing-page"
                         id="tooltip255035741"
                         target="_blank"
                       >
                         <img
                           alt="..."
                           className="img-fluid"
-                          src={require("assets/img/clients/client-10.jpg")}
+                          src={require("assets/img/clients/client-21.jpg")}
+                          style={{ width: "250px", height:"230px" }}
                         />
                       </a>
-                      <UncontrolledTooltip delay={0} target="tooltip255035741">
+                      {/* <UncontrolledTooltip delay={0} target="tooltip255035741">
                         Bootstrap 4 - Most popular front-end component library
-                      </UncontrolledTooltip>
+                      </UncontrolledTooltip> */}
                     </Col>
                     </Row>
                 </div>
