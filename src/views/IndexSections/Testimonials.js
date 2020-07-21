@@ -64,20 +64,11 @@ class Testimonials extends React.Component {
                 <TabContent activeTab={"iconTabs" + this.state.iconTabs}>
                   <TabPane tabId="iconTabs1">
                     <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse. Mustache cliche tempor, williamsburg carles vegan
-                      helvetica. Reprehenderit butcher retro keffiyeh
-                      dreamcatcher synth.
-                    </p>
-                    <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse.
+                    What I value most about Lodha International is their top-notch customer service – along with competitive pricing and a variety of parts stocked for timely deliveries. I consistently receive excellent service including prompt replies, timely reactions to our critical situations, and helpful suggestions that support our needs.
                     </p>
                   </TabPane>
                   
-                  <TabPane tabId="iconTabs2">
+                  {/* <TabPane tabId="iconTabs2">
                     <p className="description">
                       Cosby sweater eu banh mi, qui irure terry richardson ex
                       squid. Aliquip placeat salvia cillum iphone. Seitan
@@ -93,7 +84,7 @@ class Testimonials extends React.Component {
                       helvetica. Reprehenderit butcher retro keffiyeh
                       dreamcatcher synth.
                     </p>
-                  </TabPane>
+                  </TabPane> */}
                 </TabContent>
               </CardBody>
             </Card>
@@ -115,20 +106,16 @@ class Testimonials extends React.Component {
                 <TabContent activeTab={"iconTabs" + this.state.iconTabs}>
                   <TabPane tabId="iconTabs1">
                     <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse. Mustache cliche tempor, williamsburg carles vegan
-                      helvetica. Reprehenderit butcher retro keffiyeh
-                      dreamcatcher synth.
+                    Lodha International provides excellent service and quality Machinery for our company. I’m looking forward to working with Lodha International  on many future projects.
                     </p>
-                    <p className="description">
+                    {/* <p className="description">
                       Raw denim you probably haven't heard of them jean shorts
                       Austin. Nesciunt tofu stumptown aliqua, retro synth master
                       cleanse.
-                    </p>
+                    </p> */}
                   </TabPane>
                   
-                  <TabPane tabId="iconTabs2">
+                  {/* <TabPane tabId="iconTabs2">
                     <p className="description">
                       Cosby sweater eu banh mi, qui irure terry richardson ex
                       squid. Aliquip placeat salvia cillum iphone. Seitan
@@ -144,7 +131,7 @@ class Testimonials extends React.Component {
                       helvetica. Reprehenderit butcher retro keffiyeh
                       dreamcatcher synth.
                     </p>
-                  </TabPane>
+                  </TabPane> */}
                 </TabContent>
               </CardBody>
             </Card>
@@ -166,19 +153,15 @@ class Testimonials extends React.Component {
                 <TabContent activeTab={"plainTabs" + this.state.plainTabs}>
                   <TabPane tabId="plainTabs1">
                     <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse. Mustache cliche tempor, williamsburg carles vegan
-                      helvetica. Reprehenderit butcher retro keffiyeh
-                      dreamcatcher synth.
+                    Lodha International  has been great to work with ¬ they always full fill their obligations, in other words they always have done what they said they would do.
                     </p>
-                    <p className="description">
+                    {/* <p className="description">
                       Raw denim you probably haven't heard of them jean shorts
                       Austin. Nesciunt tofu stumptown aliqua, retro synth master
                       cleanse.
-                    </p>
+                    </p> */}
                   </TabPane>
-                  <TabPane tabId="plainTabs2">
+                  {/* <TabPane tabId="plainTabs2">
                     <p className="description">
                       Cosby sweater eu banh mi, qui irure terry richardson ex
                       squid. Aliquip placeat salvia cillum iphone. Seitan
@@ -194,7 +177,7 @@ class Testimonials extends React.Component {
                       helvetica. Reprehenderit butcher retro keffiyeh
                       dreamcatcher synth.
                     </p>
-                  </TabPane>
+                  </TabPane> */}
                 </TabContent>
               </CardBody>
             </Card>

@@ -52,7 +52,7 @@ class FinalFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle"
                   color="twitter"
-                  href="https://twitter.com/creativetim"
+                  href="https://twitter.com/lodhaint"
                   id="tooltip475038074"
                   target="_blank"
                 >
@@ -66,7 +66,7 @@ class FinalFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  href="https://www.facebook.com/lodhainternational"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -80,7 +80,7 @@ class FinalFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="facebook"
-                  href="https://www.facebook.com/creativetim"
+                  href="https://www.linkedin.com/company/lodhainternational"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -94,7 +94,7 @@ class FinalFooter extends React.Component {
                 <Button
                   className="btn-icon-only rounded-circle ml-1"
                   color="youtube"
-                  href="https://www.facebook.com/creativetim"
+                  href="https://www.youtube.com/channel/UChgKc5kXBrPTHASVNRWJPaw"
                   id="tooltip837440414"
                   target="_blank"
                 >
@@ -114,7 +114,7 @@ class FinalFooter extends React.Component {
                 <div className="copyright">
                   © {new Date().getFullYear()}{" "}
                   <a
-                    href="https://www.creative-tim.com?ref=adsr-footer"
+                    href="https://github.com/rahulroshan96/"
                     target="_blank"
                   >
                     Rahul Roshan

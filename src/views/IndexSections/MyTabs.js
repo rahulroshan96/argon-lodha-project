@@ -63,36 +63,34 @@ class MyTabs extends React.Component {
                 <TabContent activeTab={"iconTabs" + this.state.iconTabs}>
                   <TabPane tabId="iconTabs1">
                     <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse. Mustache cliche tempor, williamsburg carles vegan
-                      helvetica. Reprehenderit butcher retro keffiyeh
-                      dreamcatcher synth.
+                    From Dosing, Counting, Labeling & cartooning. 
+                    We provide wide range of primary & secondary packaging solutions, 
+                    & integrated lines for solid products.
                     </p>
-                    <p className="description">
+                    {/* <p className="description">
                       Raw denim you probably haven't heard of them jean shorts
                       Austin. Nesciunt tofu stumptown aliqua, retro synth master
                       cleanse.
-                    </p>
+                    </p> */}
                   </TabPane>
                   
-                  <TabPane tabId="iconTabs2">
-                    <p className="description">
+                  {/* <TabPane tabId="iconTabs2"> */}
+                    {/* <p className="description">
                       Cosby sweater eu banh mi, qui irure terry richardson ex
                       squid. Aliquip placeat salvia cillum iphone. Seitan
                       aliquip quis cardigan american apparel, butcher voluptate
                       nisi qui.
-                    </p>
-                  </TabPane>
-                  <TabPane tabId="iconTabs3">
-                    <p className="description">
+                    </p> */}
+                  {/* </TabPane> */}
+                  {/* <TabPane tabId="iconTabs3"> */}
+                    {/* <p className="description">
                       Raw denim you probably haven't heard of them jean shorts
                       Austin. Nesciunt tofu stumptown aliqua, retro synth master
                       cleanse. Mustache cliche tempor, williamsburg carles vegan
                       helvetica. Reprehenderit butcher retro keffiyeh
                       dreamcatcher synth.
-                    </p>
-                  </TabPane>
+                    </p> */}
+                  {/* </TabPane> */}
                 </TabContent>
               </CardBody>
             </Card>
@@ -113,36 +111,10 @@ class MyTabs extends React.Component {
                 <TabContent activeTab={"iconTabs" + this.state.iconTabs}>
                   <TabPane tabId="iconTabs1">
                     <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse. Mustache cliche tempor, williamsburg carles vegan
-                      helvetica. Reprehenderit butcher retro keffiyeh
-                      dreamcatcher synth.
-                    </p>
-                    <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse.
+                    We manufacture highly efficient machines specially designed for bottles and vials. We provide specific machines and complete lines from filling to labelling.
                     </p>
                   </TabPane>
-                  
-                  <TabPane tabId="iconTabs2">
-                    <p className="description">
-                      Cosby sweater eu banh mi, qui irure terry richardson ex
-                      squid. Aliquip placeat salvia cillum iphone. Seitan
-                      aliquip quis cardigan american apparel, butcher voluptate
-                      nisi qui.
-                    </p>
-                  </TabPane>
-                  <TabPane tabId="iconTabs3">
-                    <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse. Mustache cliche tempor, williamsburg carles vegan
-                      helvetica. Reprehenderit butcher retro keffiyeh
-                      dreamcatcher synth.
-                    </p>
-                  </TabPane>
+                
                 </TabContent>
               </CardBody>
             </Card>
@@ -164,34 +136,7 @@ class MyTabs extends React.Component {
                 <TabContent activeTab={"iconTabs" + this.state.iconTabs}>
                   <TabPane tabId="iconTabs1">
                     <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse. Mustache cliche tempor, williamsburg carles vegan
-                      helvetica. Reprehenderit butcher retro keffiyeh
-                      dreamcatcher synth.
-                    </p>
-                    <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse.
-                    </p>
-                  </TabPane>
-                  
-                  <TabPane tabId="iconTabs2">
-                    <p className="description">
-                      Cosby sweater eu banh mi, qui irure terry richardson ex
-                      squid. Aliquip placeat salvia cillum iphone. Seitan
-                      aliquip quis cardigan american apparel, butcher voluptate
-                      nisi qui.
-                    </p>
-                  </TabPane>
-                  <TabPane tabId="iconTabs3">
-                    <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse. Mustache cliche tempor, williamsburg carles vegan
-                      helvetica. Reprehenderit butcher retro keffiyeh
-                      dreamcatcher synth.
+                    From Cream manufacturing to filling and Labeling. We provide custom solutions and complete lines for Pharmaceutical and Cosmetic Products.
                     </p>
                   </TabPane>
                 </TabContent>
@@ -215,33 +160,7 @@ class MyTabs extends React.Component {
                 <TabContent activeTab={"plainTabs" + this.state.plainTabs}>
                   <TabPane tabId="plainTabs1">
                     <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse. Mustache cliche tempor, williamsburg carles vegan
-                      helvetica. Reprehenderit butcher retro keffiyeh
-                      dreamcatcher synth.
-                    </p>
-                    <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse.
-                    </p>
-                  </TabPane>
-                  <TabPane tabId="plainTabs2">
-                    <p className="description">
-                      Cosby sweater eu banh mi, qui irure terry richardson ex
-                      squid. Aliquip placeat salvia cillum iphone. Seitan
-                      aliquip quis cardigan american apparel, butcher voluptate
-                      nisi qui.
-                    </p>
-                  </TabPane>
-                  <TabPane tabId="plainTabs3">
-                    <p className="description">
-                      Raw denim you probably haven't heard of them jean shorts
-                      Austin. Nesciunt tofu stumptown aliqua, retro synth master
-                      cleanse. Mustache cliche tempor, williamsburg carles vegan
-                      helvetica. Reprehenderit butcher retro keffiyeh
-                      dreamcatcher synth.
+                    From Washing, Filling to Labeling. We provide wide range of primary and secondary packaging solutions, as well as integrated lines for Injectables.
                     </p>
                   </TabPane>
                 </TabContent>

@@ -262,7 +262,7 @@ class DemoNavbar extends React.Component {
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://www.facebook.com/creativetim"
+                      href="https://www.facebook.com/lodhainternational"
                       id="tooltip333589074"
                       target="_blank"
                     >
@@ -278,23 +278,23 @@ class DemoNavbar extends React.Component {
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://www.instagram.com/creativetimofficial"
+                      href="https://www.youtube.com/channel/UChgKc5kXBrPTHASVNRWJPaw"
                       id="tooltip356693867"
                       target="_blank"
                     >
-                      <i className="fa fa-instagram" />
+                      <i className="fa fa-youtube square" />
                       <span className="nav-link-inner--text d-lg-none ml-2">
-                        Instagram
+                        YouTube
                       </span>
                     </NavLink>
                     <UncontrolledTooltip delay={0} target="tooltip356693867">
-                      Follow us on Instagram
+                      Visit Us on Youtube
                     </UncontrolledTooltip>
                   </NavItem>
                   <NavItem>
                     <NavLink
                       className="nav-link-icon"
-                      href="https://twitter.com/creativetim"
+                      href="https://twitter.com/lodhaint"
                       id="tooltip184698705"
                       target="_blank"
                     >
@@ -305,6 +305,22 @@ class DemoNavbar extends React.Component {
                     </NavLink>
                     <UncontrolledTooltip delay={0} target="tooltip184698705">
                       Follow us on Twitter
+                    </UncontrolledTooltip>
+                  </NavItem>
+                  <NavItem>
+                    <NavLink
+                      className="nav-link-icon"
+                      href="https://www.linkedin.com/company/lodhainternational"
+                      id="tooltip356693867"
+                      target="_blank"
+                    >
+                      <i className="fa fa-linkedin" />
+                      <span className="nav-link-inner--text d-lg-none ml-2">
+                        Linkedin
+                      </span>
+                    </NavLink>
+                    <UncontrolledTooltip delay={0} target="tooltip356693867">
+                      Follow us on Linkedin
                     </UncontrolledTooltip>
                   </NavItem>
                   
