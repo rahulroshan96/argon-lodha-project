@@ -417,6 +417,10 @@ mark,
   max-width: 100%;
   height: auto; }
 
+.img-fluid2 {
+  max-width: 100%;
+  height: auto;}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -5164,6 +5168,9 @@ button.bg-darker:focus {
 
 .rounded {
   border-radius: 0.25rem !important; }
+
+.rounded2 {
+  border-radius: 0.45rem !important; }
 
 .rounded-top {
   border-top-left-radius: 0.25rem !important;
@@ -13947,6 +13954,9 @@ p {
 
 .description {
   font-size: 0.875rem; }
+
+.description2 {
+  font-size: 1rem; }
 
 .heading {
   letter-spacing: 0.025em;

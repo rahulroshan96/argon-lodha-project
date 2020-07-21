@@ -19,8 +19,12 @@ import React from "react";
 
 // reactstrap components
 import { Row, Col } from "reactstrap";
+import {
+  Card, CardImg, CardText, CardBody,
+  CardTitle, CardSubtitle, Button
+} from 'reactstrap';
 
-class WelcomeCards extends React.Component {
+class Products extends React.Component {
   render() {
     return (
       <>
@@ -28,22 +32,70 @@ class WelcomeCards extends React.Component {
           <span>Typography</span>
         </h2> */}
         {/* Specialized titles */}
-        <h3 className="h4 text-success font-weight-bold mt-md mt-lg mb-5">
-          Welcome To LODHA Products
-        </h3>
+        <h2 className="h4 text-success font-weight-bold mt-lg">
+          Our Products
+        </h2>
         {/* <h2 className="mt-lg mb-5">
           <span>Images</span>
         </h2> */}
         <Row>
           <Col sm="3" xs="6">
             <small className="d-block text-uppercase font-weight-bold mb-4">
-              Solids
+              Oral Liquids
             </small>
             <img
               alt="..."
               className="img-fluid rounded shadow"
-              src={require("assets/img/brand/pexels-photo-3683099.webp")}
-              style={{ width: "250px", height:"230px" }}
+              src={require("assets/img/theme/team-2-800x800.jpg")}
+              style={{ width: "250px" }}
+            />
+          </Col>
+          <Col sm="3" xs="6">
+            <small className="d-block text-uppercase font-weight-bold mb-4">
+              Oral Liquids
+            </small>
+            <img
+              alt="..."
+              className="img-fluid rounded shadow"
+              src={require("assets/img/theme/team-2-800x800.jpg")}
+              style={{ width: "250px" }}
+            />
+          </Col>
+          <Col className="mt-5 mt-sm-0" sm="3" xs="6">
+            <small className="d-block text-uppercase font-weight-bold mb-4">
+              Topical
+            </small>
+            <img
+              alt="..."
+              className="img-fluid rounded shadow-lg"
+              src={require("assets/img/theme/team-3-800x800.jpg")}
+              style={{ width: "250px" }}
+            />
+          </Col>
+          <Col className="mt-5 mt-sm-0" sm="3" xs="6">
+            <small className="d-block text-uppercase font-weight-bold mb-4">
+              Injectables
+            </small>
+            <img
+              alt="..."
+              className="img-fluid rounded shadow-lg"
+              src={require("assets/img/theme/team-4-800x800.jpg")}
+              style={{ width: "250px" }}
+            />
+          </Col>
+        </Row>
+        <br/>
+        <br/>
+        <Row>
+          <Col sm="3" xs="6">
+            <small className="d-block text-uppercase font-weight-bold mb-4">
+              Oral Liquids
+            </small>
+            <img
+              alt="..."
+              className="img-fluid rounded shadow"
+              src={require("assets/img/theme/team-2-800x800.jpg")}
+              style={{ width: "250px" }}
             />
           </Col>
           <Col sm="3" xs="6">
@@ -85,4 +137,4 @@ class WelcomeCards extends React.Component {
   }
 }
 
-export default WelcomeCards;
+export default Products;

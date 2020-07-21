@@ -23,6 +23,7 @@ import { Container, Row } from "reactstrap";
 // core components
 import DemoNavbar from "components/Navbars/DemoNavbar.js";
 import CardsFooter from "components/Footers/CardsFooter.js";
+import FinalFooter from "components/Footers/FinalFooter.js";
 
 // index page sections
 import Hero from "./IndexSections/Hero.js";
@@ -50,6 +51,8 @@ import Download from "./IndexSections/Download.js";
 import AboutUs from "./IndexSections/AboutUs.js";
 import Testimonials from "./IndexSections/Testimonials.js"
 import Clients from "./IndexSections/Clients.js"
+import Products from "./IndexSections/Products.js"
+import Footer from "./IndexSections/Footer.js"
 
 class Index extends React.Component {
   componentDidMount() {
@@ -92,17 +95,20 @@ class Index extends React.Component {
               {/* <Alerts /> */}
               {/* <Typography /> */}
               <Clients/>
+              <Products/>
               {/* <Modals /> */}
               {/* <Datepicker /> */}
               {/* <TooltipPopover /> */}
             </Container>
           </section>
           {/* <Carousel /> */}
-          <Icons />
-          <Login />
+          {/* <Icons /> */}
+          {/* <Login /> */}
+          <Footer/>
           {/* <Download /> */}
         </main>
-        <CardsFooter />
+        {/* <CardsFooter /> */}
+        <FinalFooter/>
       </>
     );
   }
