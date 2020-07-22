@@ -63,7 +63,7 @@ class Testimonials extends React.Component {
               <CardBody>
                 <TabContent activeTab={"iconTabs" + this.state.iconTabs}>
                   <TabPane tabId="iconTabs1">
-                    <p className="description">
+                    <p className="description" style={{height: "13rem"}}>
                     What I value most about Lodha International is their top-notch customer service – along with competitive pricing and a variety of parts stocked for timely deliveries. I consistently receive excellent service including prompt replies, timely reactions to our critical situations, and helpful suggestions that support our needs.
                     </p>
                   </TabPane>
@@ -105,7 +105,7 @@ class Testimonials extends React.Component {
               <CardBody>
                 <TabContent activeTab={"iconTabs" + this.state.iconTabs}>
                   <TabPane tabId="iconTabs1">
-                    <p className="description">
+                    <p className="description" style={{height: "13rem"}}>
                     Lodha International provides excellent service and quality Machinery for our company. I’m looking forward to working with Lodha International  on many future projects.
                     </p>
                     {/* <p className="description">
@@ -152,7 +152,7 @@ class Testimonials extends React.Component {
               <CardBody>
                 <TabContent activeTab={"plainTabs" + this.state.plainTabs}>
                   <TabPane tabId="plainTabs1">
-                    <p className="description">
+                    <p className="description" style={{height: "13rem"}}>
                     Lodha International  has been great to work with ¬ they always full fill their obligations, in other words they always have done what they said they would do.
                     </p>
                     {/* <p className="description">

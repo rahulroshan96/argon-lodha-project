@@ -62,7 +62,8 @@ class MyTabs extends React.Component {
               <CardBody>
                 <TabContent activeTab={"iconTabs" + this.state.iconTabs}>
                   <TabPane tabId="iconTabs1">
-                    <p className="description">
+                    <div >
+                    <p className="description" style={{height: "10rem"}}>
                     From Dosing, Counting, Labeling & cartooning. 
                     We provide wide range of primary & secondary packaging solutions, 
                     & integrated lines for solid products.
@@ -72,6 +73,7 @@ class MyTabs extends React.Component {
                       Austin. Nesciunt tofu stumptown aliqua, retro synth master
                       cleanse.
                     </p> */}
+                    </div>
                   </TabPane>
                   
                   {/* <TabPane tabId="iconTabs2"> */}
@@ -110,7 +112,7 @@ class MyTabs extends React.Component {
               <CardBody>
                 <TabContent activeTab={"iconTabs" + this.state.iconTabs}>
                   <TabPane tabId="iconTabs1">
-                    <p className="description">
+                    <p className="description" style={{height: "10rem"}}>
                     We manufacture highly efficient machines specially designed for bottles and vials. We provide specific machines and complete lines from filling to labelling.
                     </p>
                   </TabPane>
@@ -135,7 +137,7 @@ class MyTabs extends React.Component {
               <CardBody>
                 <TabContent activeTab={"iconTabs" + this.state.iconTabs}>
                   <TabPane tabId="iconTabs1">
-                    <p className="description">
+                    <p className="description" style={{height: "10rem"}}>
                     From Cream manufacturing to filling and Labeling. We provide custom solutions and complete lines for Pharmaceutical and Cosmetic Products.
                     </p>
                   </TabPane>
@@ -159,7 +161,7 @@ class MyTabs extends React.Component {
               <CardBody>
                 <TabContent activeTab={"plainTabs" + this.state.plainTabs}>
                   <TabPane tabId="plainTabs1">
-                    <p className="description">
+                    <p className="description" style={{height: "10rem"}}>
                     From Washing, Filling to Labeling. We provide wide range of primary and secondary packaging solutions, as well as integrated lines for Injectables.
                     </p>
                   </TabPane>

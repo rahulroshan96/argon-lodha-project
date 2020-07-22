@@ -75,7 +75,8 @@ class DemoNavbar extends React.Component {
               <NavbarBrand className="mr-lg-5" to="/" tag={Link}>
                 <img
                   alt="..."
-                  src={require("assets/img/brand/argon-react-white.png")}
+                  src={require("assets/img/brand/logo.png")}
+                  style={{ width: "150px", height:"100px" }}
                 />
               </NavbarBrand>
               {/* suspicious button */}
