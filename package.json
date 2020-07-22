@@ -23,7 +23,6 @@
   ],
   "author": "Creative Tim",
   "license": "MIT",
-  "homepage": "https://demos.creative-tim.com/argon-design-system-react/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build && gulp licenses",
